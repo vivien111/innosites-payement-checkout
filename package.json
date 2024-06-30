@@ -1,5 +1,5 @@
 {
-  "name": "innosites-payement",
+  "name": "innosites-payement-checkout",
   "version": "0.1.0",
   "description": "A simple component library to innosites payement",
   "main": "index.js",
