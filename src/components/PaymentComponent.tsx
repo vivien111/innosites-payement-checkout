@@ -1,7 +1,7 @@
 import React, { useState, ChangeEvent } from 'react';
 import { Button, Modal } from 'react-bootstrap';
-import PaymentForm from './components/PaymentForm';
-import MobileWalletForm from './components/MobileWalletForm';
+import PaymentForm from './PaymentForm';
+import MobileWalletForm from './MobileWalletForm';
 
 const PaymentComponent: React.FC = () => {
   const [amount, setAmount] = useState<number>(0);
